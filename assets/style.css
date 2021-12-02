@@ -1,0 +1,28 @@
+li {
+    display: inline;
+    font-size: 25px;
+}
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background-color: gray;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+}
+
+ul {
+    text-align: left;
+}
+
+h2 {
+    text-align: left;
+}
+
+img {
+    position: absolute;
+    left: 200px;
+}
