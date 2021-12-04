@@ -3,10 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="viewport" content="width, initial-scale=1.0">
+    <title>Dan's landing page</title>
+    <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about-me">About me</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="https://github.com/DanLawrence91" target="_blank">Github</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Dan's New Website</h1>
+        <figure>
+            <img src="./assets/images/pizza.png" alt="Image shown of pizza and drinks">
+            <figcaption>This is text to fill the space, spacfiller text below a picture of pizza and beer on this webpage</figcaption>
+        </figure>
+        <section>
+            <h2>About Me</h2>
+            <p>This section of text is about me. I like sports (both watching and playing), learning new skills, eating & drinking with friends and travelling. I have just started a coding bootcamp through the University of Adelaide. It is great learning all of this and I am enjoying the problem-solving nature of the work. My aim at the end of this project is to be able to begin a career in web development and hopefully this career will guide me on the correct path</p>
+            <p>Please leave your contact details below, or email me on <a href="email@email.com">email@email.com</a></p>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <form>
+                <ul>
+                    <li>
+                        <input id="name" type="text" name="user-name">
+                        <label for="name">Name</label>
+                    </li>
+                    <li>
+                        <input id="email" type="text" name="user-email">
+                        <label for="email">Email</label>
+                    </li>
+                </ul>
+                <div>
+                    <button type="submit">Submit</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        © 2021 My New Website Productions
+    </footer>
     
 </body>
 </html>
