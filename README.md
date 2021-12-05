@@ -13,4 +13,4 @@
 
 ![Screenshot of practise website landing page](./assets/images/README.png)
 
-Here is a link to the [deployed website]()
+Here is a link to the [deployed website](https://danlawrence91.github.io/mini-project-repo/)
