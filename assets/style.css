@@ -47,29 +47,29 @@ li {
 
 .text-right {
     text-align: right;
-  }
+}
 
 body {
     position: relative;
     background-color: #ebc746;
     font-size: 20px;
-  }
+}
 
 img {
     display: block;
     margin: 20px auto
-  }
+}
 
 a {
     padding: 10px;
     margin: 10px;
     text-decoration: none;
     color: black
-  }
+}
 
 figcaption {
     padding: 10px;
-  }
+}
 
 form {
     margin: 0 auto;
@@ -77,43 +77,52 @@ form {
     padding: 10px;
     border: 5px solid grey;
     border-radius: 10px;
-  }
+}
 
 label {
     display: inline-block;
     width: 100px;
-  }
+}
 
 h2 {
     padding: 20px;
     border-top: 2px #da5d15 solid;
-  }
+}
 
-  section {
-      background-color: blanchedalmond;
-  }
+section {
+    background-color: blanchedalmond;
+}
   
-  .email {
-      padding: 0;
-      margin: 0;
-      text-decoration: underline;
-  }
+.email {
+    padding: 0;
+    margin: 0;
+    text-decoration: underline;
+}
 
-  p {
-      padding: 0 20px 20px 20px;
-  }
+p {
+    padding: 0 20px 20px 20px;
+}
 
-  .text-center {
-      text-align: center;
-  }
+.text-center {
+    text-align: center;
+}
 
-  button {
-      background-color: slategrey;
-      color: white;
-      height: 30px;
-      width: 100px;
-  }
+button {
+    background-color: slategrey;
+    color: white;
+    height: 30px;
+    width: 100px;
+}
 
-  figure {
-      margin-bottom: 20px;
-  }
+figure {
+    margin-bottom: 20px;
+}
+
+input {
+    width: 300px;
+}
+
+#section-bottom {
+    padding-bottom: 20px;
+}
+  
