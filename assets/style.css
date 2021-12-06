@@ -127,4 +127,9 @@ input {
 #section-bottom {
     padding-bottom: 20px;
 }
+
+div {
+    padding-top: 10px;
+    padding-bottom: 0
+}
   
