@@ -4,6 +4,7 @@
 
 - This was a practise website created to give me a chance to use skills developed in week 1 of coding bootcamp for html and css.
 - Having started to learn to code in that week it was important to try and practise skills covered in the classes.
+- This will then be expanded upon after week 2 with more advanced css styling to the page
 
 ## Aim
 
